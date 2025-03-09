@@ -14,7 +14,7 @@ Este repositório funciona como um hub central para meus projetos, facilitando o
 
 Cada projeto possui seu próprio repositório independente. Para visualizar, basta acessar os links abaixo:  
 
-- [Projeto 1 - Meu Portfólio (Atualizado)(https://github.com/matheusmeigre/sa02-my-portfolio)]
+- [Projeto 1 - Meu Portfólio (Atualizado)](https://github.com/matheusmeigre/sa02-my-portfolio)
 - [Projeto 2 - Gerenciador de Tarefas(https://github.com/matheusmeigre/react-task-manager)]
 - [Projeto 3 - Buscador Climático(https://github.com/matheusmeigre/projeto-clima)]
 - [Projeto 3 - Validador de Formulário(https://github.com/matheusmeigre/projeto-form)]
